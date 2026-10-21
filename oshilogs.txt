@@ -12,111 +12,136 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zarifa =====
-[1]Zarifa      |09:03:57 | 20-10-2026| login OK @myrifaa | score=1530 rank=4580
-[1]Zarifa      |09:03:57 | 20-10-2026| serverTime=2026-10-20T09:03:57.000Z local=2026-10-20T09:03:57.952Z
+[1]Zarifa      |09:03:28 | 21-10-2026| login OK @myrifaa | score=1600 rank=4447
+[1]Zarifa      |09:03:28 | 21-10-2026| serverTime=2026-10-21T09:03:28.000Z local=2026-10-21T09:03:28.684Z
 --> [1]Zarifa menjalankan: Claim Daily
-[1]Zarifa      |09:03:59 | 20-10-2026| daily: OK +10 poin score=1540
+[1]Zarifa      |09:03:30 | 21-10-2026| daily: OK +10 poin score=1610
 --> [1]Zarifa menjalankan: Auto All Tasks (6 pending)
-[1]Zarifa      |09:04:01 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469404430508215
-[1]Zarifa      |09:04:01 | 20-10-2026| delay 10s...
-[1]Zarifa      |09:04:12 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469420019175191
-[1]Zarifa      |09:04:12 | 20-10-2026| delay 10s...
-[1]Zarifa      |09:04:24 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469414149680984
-[1]Zarifa      |09:04:24 | 20-10-2026| delay 10s...
-[1]Zarifa      |09:04:36 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469430232698153
-[1]Zarifa      |09:04:36 | 20-10-2026| delay 10s...
-[1]Zarifa      |09:04:47 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469780953076984
-[1]Zarifa      |09:04:47 | 20-10-2026| delay 10s...
-[1]Zarifa      |09:04:59 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/myrifaa/status/2112469775691527391
-[1]Zarifa      |09:04:59 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zarifa      |09:05:01 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/myrifaa/status/2112469846417435462
+[1]Zarifa      |09:03:32 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myrifaa/status/2112831864187806556
+[1]Zarifa      |09:03:32 | 21-10-2026| delay 10s...
+[1]Zarifa      |09:03:45 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myrifaa/status/2112831711036310663
+[1]Zarifa      |09:03:45 | 21-10-2026| delay 10s...
+[1]Zarifa      |09:03:57 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myrifaa/status/2112831699978974115
+[1]Zarifa      |09:03:57 | 21-10-2026| delay 10s...
+[1]Zarifa      |09:04:10 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myrifaa/status/2112831961774370453
+[1]Zarifa      |09:04:10 | 21-10-2026| delay 10s...
+[1]Zarifa      |09:04:23 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myrifaa/status/2112832073728618494
+[1]Zarifa      |09:04:23 | 21-10-2026| delay 10s...
+[1]Zarifa      |09:04:36 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Zarifa      |09:04:36 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zarifa      |09:04:38 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/myrifaa/status/2112831980776396828
 --> [1]Zarifa menjalankan: Watch Anime
-[1]Zarifa      |09:05:02 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Zarifa      |09:05:02 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Zarifa      |09:05:03 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Zarifa      |09:05:09 | 20-10-2026| watch oshi-captains-hat: 5% (5.07/92.00s)
-[1]Zarifa      |09:05:19 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Zarifa      |09:05:24 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Zarifa      |09:05:25 | 20-10-2026| watch oshi-rainbow-star: start GAGAL http=503
-[1]Zarifa      |09:05:30 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Zarifa      |09:05:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Zarifa      |09:05:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.13/87.00s)
-[1]Zarifa      |09:05:43 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.57/87.00s)
-[1]Zarifa      |09:05:49 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (15.87/87.00s)
-[1]Zarifa      |09:05:55 | 20-10-2026| watch oshi-rainbow-lighthouse: 24% (21.31/87.00s)
-[1]Zarifa      |09:06:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 30% (26.62/87.00s)
-[1]Zarifa      |09:06:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 36% (32.13/87.00s)
-[1]Zarifa      |09:06:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 43% (37.92/87.00s)
-[1]Zarifa      |09:06:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 49% (43.30/87.00s)
-[1]Zarifa      |09:06:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 55% (48.63/87.00s)
-[1]Zarifa      |09:06:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.18/87.00s)
-[1]Zarifa      |09:06:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.65/87.00s)
-[1]Zarifa      |09:06:43 | 20-10-2026| watch oshi-rainbow-lighthouse: 74% (65.01/87.00s)
-[1]Zarifa      |09:06:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 80% (70.40/87.00s)
-[1]Zarifa      |09:06:55 | 20-10-2026| watch oshi-rainbow-lighthouse: 87% (75.84/87.00s)
-[1]Zarifa      |09:07:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 93% (81.16/87.00s)
-[1]Zarifa      |09:07:02 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.16/87.00s)
-[1]Zarifa      |09:07:07 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Zarifa      |09:07:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Zarifa      |09:07:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.16/181.00s)
-[1]Zarifa      |09:07:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.62/181.00s)
-[1]Zarifa      |09:07:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.96/181.00s)
-[1]Zarifa      |09:07:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.93/181.00s)
-[1]Zarifa      |09:07:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.39/181.00s)
-[1]Zarifa      |09:07:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (32.94/181.00s)
-[1]Zarifa      |09:07:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.92/181.00s)
-[1]Zarifa      |09:07:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.47/181.00s)
-[1]Zarifa      |09:08:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.88/181.00s)
-[1]Zarifa      |09:08:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.41/181.00s)
-[1]Zarifa      |09:08:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.37/181.00s)
-[1]Zarifa      |09:08:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.96/181.00s)
-[1]Zarifa      |09:08:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.31/181.00s)
-[1]Zarifa      |09:08:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.68/181.00s)
-[1]Zarifa      |09:08:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.11/181.00s)
-[1]Zarifa      |09:08:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.57/181.00s)
-[1]Zarifa      |09:08:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.89/181.00s)
-[1]Zarifa      |09:09:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.22/181.00s)
-[1]Zarifa      |09:09:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.57/181.00s)
-[1]Zarifa      |09:09:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.07/181.00s)
-[1]Zarifa      |09:09:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.37/181.00s)
-[1]Zarifa      |09:09:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 67% (121.86/181.00s)
-[1]Zarifa      |09:09:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.25/181.00s)
-[1]Zarifa      |09:09:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.02/181.00s)
-[1]Zarifa      |09:09:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.51/181.00s)
-[1]Zarifa      |09:09:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.92/181.00s)
-[1]Zarifa      |09:09:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.24/181.00s)
-[1]Zarifa      |09:10:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (154.56/181.00s)
-[1]Zarifa      |09:10:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
-[1]Zarifa      |09:10:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
+[1]Zarifa      |09:04:38 | 21-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,bakeru-ikesou-jan-mv
+[1]Zarifa      |09:04:38 | 21-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Zarifa      |09:04:39 | 21-10-2026| watch oshi-captains-hat: mulai dari 0 (record 5.1s diabaikan)
+[1]Zarifa      |09:04:40 | 21-10-2026| watch oshi-captains-hat: 5% (5.07/92.00s)
+[1]Zarifa      |09:04:46 | 21-10-2026| watch oshi-captains-hat: 5% (5.19/92.00s)
+[1]Zarifa      |09:04:53 | 21-10-2026| watch oshi-captains-hat: 11% (10.83/92.00s)
+[1]Zarifa      |09:04:59 | 21-10-2026| watch oshi-captains-hat: 18% (16.67/92.00s)
+[1]Zarifa      |09:05:05 | 21-10-2026| watch oshi-captains-hat: 24% (22.42/92.00s)
+[1]Zarifa      |09:05:12 | 21-10-2026| watch oshi-captains-hat: 30% (28.04/92.00s)
+[1]Zarifa      |09:05:19 | 21-10-2026| watch oshi-captains-hat: 37% (34.04/92.00s)
+[1]Zarifa      |09:05:25 | 21-10-2026| watch oshi-captains-hat: 43% (39.83/92.00s)
+[1]Zarifa      |09:05:32 | 21-10-2026| watch oshi-captains-hat: 49% (45.45/92.00s)
+[1]Zarifa      |09:05:38 | 21-10-2026| watch oshi-captains-hat: 56% (51.76/92.00s)
+[1]Zarifa      |09:05:45 | 21-10-2026| watch oshi-captains-hat: 62% (57.71/92.00s)
+[1]Zarifa      |09:05:51 | 21-10-2026| watch oshi-captains-hat: 68% (63.19/92.00s)
+[1]Zarifa      |09:05:58 | 21-10-2026| watch oshi-captains-hat: 75% (69.17/92.00s)
+[1]Zarifa      |09:06:04 | 21-10-2026| watch oshi-captains-hat: 81% (75.15/92.00s)
+[1]Zarifa      |09:06:11 | 21-10-2026| watch oshi-captains-hat: 87% (80.93/92.00s)
+[1]Zarifa      |09:06:17 | 21-10-2026| watch oshi-captains-hat: 94% (86.65/92.00s)
+[1]Zarifa      |09:06:17 | 21-10-2026| watch oshi-captains-hat: COMPLETED (86.65/92.00s)
+[1]Zarifa      |09:06:22 | 21-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Zarifa      |09:06:31 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Zarifa      |09:06:37 | 21-10-2026| watch oshi-rainbow-star: 10% (9.02/86.00s)
+[1]Zarifa      |09:06:44 | 21-10-2026| watch oshi-rainbow-star: 18% (15.97/86.00s)
+[1]Zarifa      |09:06:51 | 21-10-2026| watch oshi-rainbow-star: 25% (22.35/86.00s)
+[1]Zarifa      |09:06:57 | 21-10-2026| watch oshi-rainbow-star: 33% (28.55/86.00s)
+[1]Zarifa      |09:07:04 | 21-10-2026| watch oshi-rainbow-star: 40% (34.45/86.00s)
+[1]Zarifa      |09:07:10 | 21-10-2026| watch oshi-rainbow-star: 46% (40.21/86.00s)
+[1]Zarifa      |09:07:16 | 21-10-2026| watch oshi-rainbow-star: 53% (45.78/86.00s)
+[1]Zarifa      |09:07:23 | 21-10-2026| watch oshi-rainbow-star: 59% (51.46/86.00s)
+[1]Zarifa      |09:07:29 | 21-10-2026| watch oshi-rainbow-star: 66% (57.54/86.00s)
+[1]Zarifa      |09:07:36 | 21-10-2026| watch oshi-rainbow-star: 73% (63.54/86.00s)
+[1]Zarifa      |09:07:43 | 21-10-2026| watch oshi-rainbow-star: 80% (69.63/86.00s)
+[1]Zarifa      |09:07:49 | 21-10-2026| watch oshi-rainbow-star: 87% (75.47/86.00s)
+[1]Zarifa      |09:07:55 | 21-10-2026| watch oshi-rainbow-star: 94% (81.07/86.00s)
+[1]Zarifa      |09:07:55 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (81.07/86.00s)
+[1]Zarifa      |09:08:00 | 21-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
+[1]Zarifa      |09:08:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 159.9s diabaikan)
+[1]Zarifa      |09:08:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:36 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:08:56 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:37 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:09:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:10:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:11:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.90/181.00s)
+[1]Zarifa      |09:11:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.36/181.00s)
+[1]Zarifa      |09:11:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.36/181.00s)
 --> [1]Zarifa menjalankan: Read Article
-[1]Zarifa      |09:10:22 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:09 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Zarifa      |09:11:10 | 21-10-2026| mint eligibility: {"userId":"1748181729108750336","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zarifalavani","status":"submitted","revision":"49fcc19a-5f75-49c0-8afa-0d6948e60
+[1]Zarifa      |09:11:18 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Zarifa menjalankan: Quiz Anime
-[1]Zarifa      |09:10:23 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Zarifa      |09:11:20 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Zarifa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zarifa      |09:10:23 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Zarifa      |09:10:23 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:23 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zarifa      |09:11:24 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Zarifa      |09:11:24 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zarifa      |09:11:24 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zarifa menjalankan: Claim Missions
-[1]Zarifa      |09:10:24 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:25 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Zarifa      |09:11:25 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zarifa      |09:11:25 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zarifa menjalankan: Check Eligibility
 
 --- eligibility [1]Zarifa ---
-  @myrifaa | score=1530 rank=4580
-  tasks    [##################--] 73/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @myrifaa | score=1600 rank=4447
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zarifa menjalankan: Read Manga
-[1]Zarifa      |09:10:25 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:34 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zarifa menjalankan: Get Gift
-[1]Zarifa      |09:10:25 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:35 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Zarifa menjalankan: Setup Profile
-[1]Zarifa      |09:10:26 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:35 | 21-10-2026| profile: bio="https://x.com/myrifaa" fav=kagura rewardAt=1791690042
+[1]Zarifa      |09:11:35 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zarifa menjalankan: Bind Wallet
-[1]Zarifa      |09:10:26 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zarifa      |09:11:36 | 21-10-2026| wallet: sudah terikat AyGpUTJf9m... (solana)
 
 == RINGKASAN ==
-- Zarifa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Zarifa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
